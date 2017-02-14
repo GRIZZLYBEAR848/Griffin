@@ -6,7 +6,7 @@ body {
 .wrapper {
   display: grid;
   grid-template-columns: 500px 500px 500px;
-  grid-gap: 100px;
+  grid-gap: 150px;
   background-color: #fff;
   color: #444;
 }
