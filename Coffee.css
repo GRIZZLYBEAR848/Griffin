@@ -1,7 +1,10 @@
 body {
   margin: 40px;
 }
-
+.c {
+        grid-column: 1 ;
+        grid-row: 2 ;
+    }
 .wrapper {
   display: grid;
   grid-template-columns: px 500px 500px;
@@ -20,3 +23,5 @@ body {
 }
 body {
     background-color: #b8f2ff;
+   
+        
